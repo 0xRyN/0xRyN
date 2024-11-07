@@ -27,8 +27,4 @@ I'm a passionate Full Stack Developer specializing in building and deploying web
 
 - **[Polish Language](https://github.com/0xRyN/Polish-Lang)**: A programming language developed entirely in OCaml, featuring custom lexer and parser, with static analysis tools for code optimization.
 
-## ⚡ Fun Facts
-
-- Passionate about cybersecurity and pen-testing, especially in reverse engineering challenges.
-- Chess enthusiast and former departmental champion (2009).
-- Enjoys strategy games and collaborating with teams sharing a common vision.
+- **And more below!**
